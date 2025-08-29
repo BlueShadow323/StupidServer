@@ -1,0 +1,2 @@
+# StupidServer
+Crash your server 💥
