@@ -1,0 +1,6 @@
+name: StupidServer
+version: '1.0'
+main: com.stupidServer.StupidServer
+api-version: 1.13
+author: StupidDeveloper
+folia-supported: true
